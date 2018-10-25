@@ -9,12 +9,12 @@ authors = [
     {
         'first_name': 'Маша',
         'last_name': 'Иванова',
-        'email': 'mari@exemple.com',
+        'email': 'mari@example.com',
     },
     {
         'first_name': 'Полуэкт',
         'last_name': 'Невструев',
-        'email': 'p@exemple.com',
+        'email': 'p@example.com',
     }
 ]
 
